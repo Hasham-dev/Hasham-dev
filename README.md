@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasham-dev&label=Profile%20views&color=0e75b6&style=flat" alt="hasham-dev" /> </p>
 
 
-- 🌱 I’m currently learning **Amazon**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hasham-dev](https://github.com/Hasham-dev)
 
