@@ -31,6 +31,7 @@
 - CSS 
 - Sass/Scss
 - Bootstrap
+- Styled components
 - Material UI
 - Materialize
 - Tailwindcss
@@ -55,10 +56,13 @@
 - Mirage Js
 - FaunaDB 
 - Firebase (Firestore)
+- Postgress
+
 
 ### (CMS)
 - Strapi
 - Contentful
+- DatoCMS
 
 ### (Ecommerce)
 - Stripe (Payments)
