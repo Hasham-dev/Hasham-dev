@@ -1,10 +1,10 @@
-### Hi there I am Junaid Qureshi, Full Stack (MERN and JAM Stack) Developer from Pakisan :pakistan: 👋
+### Hi there I am Hasham Vakani, Full Stack (MERN and JAM Stack) Developer from Pakisan :pakistan: 👋
 <!-- ## @website : https://developerjunaid.com/ -->
 
 ### :heavy_check_mark: Full Stack Developer | MERN Stack | JAM Stack
 
 
-- 📫 How to reach me:  
+## 📫 How to reach me:  
 
 - - :octocat: Github              => :link:	https://github.com/Hasham-dev/
 - - :large_blue_circle: Facebook: => :link:	https://www.facebook.com/IamHashamVakani/
