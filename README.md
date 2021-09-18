@@ -1,27 +1,81 @@
-<h1 align="center">Hi 👋, I'm Hasham Vakani</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+### Hi there I am Junaid Qureshi, Full Stack (MERN and JAM Stack) Developer from Pakisan :pakistan: 👋
+<!-- ## @website : https://developerjunaid.com/ -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hasham-dev&label=Profile%20views&color=0e75b6&style=flat" alt="hasham-dev" /> </p>
+### :heavy_check_mark: Full Stack Developer | MERN Stack | JAM Stack
 
 
-- 🌱 I’m currently learning **AWS**
+- 📫 How to reach me:  
 
-- 👨‍💻 All of my projects are available at [https://github.com/Hasham-dev](https://github.com/Hasham-dev)
+- - :octocat: Github              => :link:	https://github.com/Hasham-dev/
+- - :large_blue_circle: Facebook: => :link:	https://www.facebook.com/IamHashamVakani/
+- - :purple_circle: LinkedIn:     => :link:	https://www.linkedin.com/in/hasham-vakani-8a9551198
+<!-- - - :large_blue_diamond: Facebook (Page): => :link:	https://www.facebook.com/developerJunaid -->
 
-- 💬 Ask me about **react, typescript & react native**
+<!-- ### :medal_sports: Projects :
+- **Memories App (MERN) => :link: https://memories-manager.netlify.app/**
+- **Diaries Manager (ReactJs + Firebase) =>  :link: https://diaries-manager.web.app/**
+- **Nike Shoe Store (ReactJs) => :link:	https://nike-shoe-store.netlify.app/**
+- **Gatsby Blog Website (GatsbyJs)      => :link: https://techberg-blog.netlify.app/**
+- **Animated DevFolio (ReactJs)  => :link: https://developer-junaid.web.app/**
+- **Gatsby Portfolio (GatsbyJs) => :link: https://gatsbyjs-portfolio-site.netlify.app/**
+- **Mobile First (Landing Page) => :link: https://mobile-first-design.netlify.app/**
+- **Online Quiz (PWA + ReactJs)      => :link: https://our-quiz.web.app/**
+- **Space-X launches (ReactJs + Typescript) =>  :link: https://launches-spacex.web.app/** -->
 
-- 📫 How to reach me **vakanihasham64@gmai.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hasham-vakani-8a9551198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hasham-vakani-8a9551198/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13779525/hasham-minhas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13779525/hasham-minhas" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/iamhashamvakani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/iamhashamvakani" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/vakanihasham64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/vakanihasham64" height="30" width="40" /></a>
-</p>
+## Technologies I Know
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hasham-dev&theme=dark)](https://git.io/streak-stats)
+- HTML
+### (Styling)
+- CSS 
+- Sass/Scss
+- Bootstrap
+- Material UI
+- Materialize
+- Tailwindcss
+
+### (Front-End)
+- Javascript (Advanced)
+- Typescript
+- React Js (CSR)
+- Gatsby Js (SSG)
+- Next Js (SSR)
+- PWA
+
+### (Back-End)
+- Node Js 
+- Express Js 
+- Rest API
+- GraphQl 
+- Serverless Lambda Functions
+
+### (Databases)
+- MongoDB 
+- Mirage Js
+- FaunaDB 
+- Firebase (Firestore)
+
+### (CMS)
+- Strapi
+- Contentful
+
+### (Ecommerce)
+- Stripe (Payments)
+
+### (Tools)
+- Figma
+- Balsamiq
+- Git (and Github) 
+- Web Animations
+- CI/CD
+- Storybook
+
+### (Deployment)
+- Surge
+- Netlify
+- Heroku
+- Firebase 
+- Vercel
+
 
