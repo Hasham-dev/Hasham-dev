@@ -81,6 +81,7 @@
 - Heroku
 - Firebase 
 - Vercel
+- CPanel
 
 
 
