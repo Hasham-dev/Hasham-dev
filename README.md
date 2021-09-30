@@ -11,17 +11,17 @@
 - - :purple_circle: LinkedIn:     => :link:	https://www.linkedin.com/in/hasham-vakani-8a9551198
 <!-- - - :large_blue_diamond: Facebook (Page): => :link:	https://www.facebook.com/developerJunaid -->
 
-<!-- ### :medal_sports: Projects :
-- **Memories App (MERN) => :link: https://memories-manager.netlify.app/**
-- **Diaries Manager (ReactJs + Firebase) =>  :link: https://diaries-manager.web.app/**
+### :medal_sports: Projects :
+- **Email Confirmation (MERN) => :link: http://hv-email-confirmation.surge.sh/**
+<!-- - **Diaries Manager (ReactJs + Firebase) =>  :link: https://diaries-manager.web.app/**
 - **Nike Shoe Store (ReactJs) => :link:	https://nike-shoe-store.netlify.app/**
 - **Gatsby Blog Website (GatsbyJs)      => :link: https://techberg-blog.netlify.app/**
 - **Animated DevFolio (ReactJs)  => :link: https://developer-junaid.web.app/**
 - **Gatsby Portfolio (GatsbyJs) => :link: https://gatsbyjs-portfolio-site.netlify.app/**
 - **Mobile First (Landing Page) => :link: https://mobile-first-design.netlify.app/**
 - **Online Quiz (PWA + ReactJs)      => :link: https://our-quiz.web.app/**
-- **Space-X launches (ReactJs + Typescript) =>  :link: https://launches-spacex.web.app/** -->
-
+- **Space-X launches (ReactJs + Typescript) =>  :link: https://launches-spacex.web.app/**
+ -->
 
 ## Technologies I Know
 
