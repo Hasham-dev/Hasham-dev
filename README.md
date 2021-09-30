@@ -15,7 +15,6 @@
 - **Email Confirmation (MERN) => :link: http://hv-email-confirmation.surge.sh/**
 - **Virtual Lolly (GatsbyJs + Faundb + Netlify web services) =>  :link: https://hv-virtul-lolly.netlify.app/**
 - **Tiny Short Animation (ReactJs) => :link:	http://hv-animation.surge.sh/**
-- **Gatsby Blog Website (GatsbyJs)      => :link: https://techberg-blog.netlify.app/**
 - **ChatApp (ReactJs + Firebase)  => :link: https://chatt-app-234fc.web.app/**
 
 
