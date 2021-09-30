@@ -13,15 +13,11 @@
 
 ### :medal_sports: Projects :
 - **Email Confirmation (MERN) => :link: http://hv-email-confirmation.surge.sh/**
-<!-- - **Diaries Manager (ReactJs + Firebase) =>  :link: https://diaries-manager.web.app/**
-- **Nike Shoe Store (ReactJs) => :link:	https://nike-shoe-store.netlify.app/**
+- **Virtual Lolly (GatsbyJs + Faundb + Netlify web services) =>  :link: https://hv-virtul-lolly.netlify.app/**
+- **Tiny Short Animation (ReactJs) => :link:	http://hv-animation.surge.sh/**
 - **Gatsby Blog Website (GatsbyJs)      => :link: https://techberg-blog.netlify.app/**
-- **Animated DevFolio (ReactJs)  => :link: https://developer-junaid.web.app/**
-- **Gatsby Portfolio (GatsbyJs) => :link: https://gatsbyjs-portfolio-site.netlify.app/**
-- **Mobile First (Landing Page) => :link: https://mobile-first-design.netlify.app/**
-- **Online Quiz (PWA + ReactJs)      => :link: https://our-quiz.web.app/**
-- **Space-X launches (ReactJs + Typescript) =>  :link: https://launches-spacex.web.app/**
- -->
+- **ChatApp (ReactJs + Firebase)  => :link: https://chatt-app-234fc.web.app/**
+
 
 ## Technologies I Know
 
