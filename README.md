@@ -11,7 +11,7 @@
 <!-- - - :large_blue_diamond: Facebook (Page): => :link:	https://www.facebook.com/developerJunaid -->
 
 ### :medal_sports: Projects :
-- **Email Confirmation (MERN) => :link: http://hv-email-confirmation.surge.sh/**
+- **NotePD (Become an Idea Machine) => :link: https://alpha.notepd.com/**
 - **Halal Food Checker (Gatsby + Airtable) => :link: https://hv-shukran.netlify.app/en/**
 - **Subnight Club (Gatsby + Airtable) => :link: https://hv-subnight.netlify.app/invitation/**
 - **Virtual Lolly (GatsbyJs + Faundb + Netlify web services) =>  :link: https://hv-virtul-lolly.netlify.app/**
