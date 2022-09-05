@@ -17,6 +17,7 @@
 - **Virtual Lolly (GatsbyJs + Faundb + Netlify web services) =>  :link: https://hv-virtul-lolly.netlify.app/**
 - **Tiny Short Animation (ReactJs) => :link:	http://hv-animation.surge.sh/**
 - **ChatApp (ReactJs + Firebase)  => :link: https://chatt-app-234fc.web.app/**
+- **UxPortfolio (HTML5 + JavaScript)  => :link: https://uxportfolio.vercel.app/**
 
 
 ## Technologies I Know
