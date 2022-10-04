@@ -20,6 +20,7 @@
 - **UXPortfolio (HTML5 + JavaScript)  => :link: https://uxportfolio.vercel.app/**
 - **Nightkids.io (React)  => :link: https://3-d-frontend.vercel.app/**
 - **Nightkids.io (React)  => :link: https://fitdoge-puce.vercel.app/**
+- **Crosader (React + SASS)  => :link: https://app.crosader.com/nft**
 
 
 ## Technologies I Know
