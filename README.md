@@ -12,6 +12,7 @@
 
 ### :medal_sports: Projects :
 - **NotePD (Become an Idea Machine) => :link: https://notepd.com/**
+- **Proposal genie (AI Writing Tool) => :link: https://proposalgenie.ai**
 - **Halal Food Checker (Gatsby + Airtable) => :link: https://hv-shukran.netlify.app/en/**
 - **Subnight Club (Gatsby + Airtable) => :link: https://hv-subnight.netlify.app/invitation/**
 - **Virtual Lolly (GatsbyJs + Faundb + Netlify web services) =>  :link: https://hv-virtul-lolly.netlify.app/**
