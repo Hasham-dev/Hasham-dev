@@ -23,6 +23,7 @@
 - **Fitdoge (React)  => :link: https://fitdoge-puce.vercel.app/**
 - **Crosader (React + SASS)  => :link: https://app.crosader.com/nft**
 - **Culineer (React + Typescript)  => :link: [https://culineer.net/#/homecook](https://culineer.net/#/homecook)**
+- **NEURALTASK (Next.js + Typescript)  => :link: [https://neural-task-ai.vercel.app/](https://neural-task-ai.vercel.app/)**
 
 
 ## Technologies I Know
