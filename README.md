@@ -49,6 +49,17 @@ Production AI systems · agentic workflows (LangGraph) · RAG & document intelli
 ![Anthropic](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hasham-dev&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasham-dev&layout=compact&hide_border=true&langs_count=8&count_private=true&theme=tokyonight" alt="top langs"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasham-dev&hide_border=true&theme=tokyonight" alt="streak" height="165"/>
+</div>
+
 ## 📫 Reach Me
 **Email:** vakanihasham64@gmail.com  ·  **LinkedIn:** [hasham-vakani](https://www.linkedin.com/in/hasham-vakani-8a9551198/)
 
