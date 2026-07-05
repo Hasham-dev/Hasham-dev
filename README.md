@@ -20,6 +20,4 @@ Production AI systems · agentic workflows (LangGraph) · RAG & document intelli
 `TypeScript` · `Node.js` · `NestJS` · `Python` · `FastAPI` · `Next.js` · `PostgreSQL` · `pgvector` · `AWS` · `Claude` · `OpenAI` · `LangGraph` · `Docker`
 
 ## Reach me
-LinkedIn: https://www.linkedin.com/in/hasham-vakani-8a9551198/
-
-<img src="https://github-readme-stats.vercel.app/api?username=Hasham-dev&show_icons=true&hide_border=true&count_private=true&theme=default" height="150" />
+📫 **hasham@theperfectevent.com**  ·  [LinkedIn](https://www.linkedin.com/in/hasham-vakani-8a9551198/)
